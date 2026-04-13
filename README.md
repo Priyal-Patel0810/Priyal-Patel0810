@@ -54,7 +54,7 @@ mission: Build scalable, secure, and reproducible delivery systems.
 </td>
 <td width="46%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1320&height=80&section=header&text=DEPLOYMENTS%20AND%20PROJECTS&fontColor=ffffff&fontSize=26" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Priyal-Patel0810&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="100%" />
 
 <img src="https://streak-stats.demolab.com?user=Priyal-Patel0810&theme=tokyonight&hide_border=true" alt="GitHub streak" width="100%" />
 
