@@ -20,10 +20,8 @@
 </div>
 
 <table>
-  <tr>
-
-    <!-- LEFT SIDE -->
-    <td width="54%" valign="top">
+<tr>
+<td width="54%" valign="top">
 
 ```yaml
 name: Priyal Patel
@@ -31,29 +29,38 @@ role_target:
   - Cloud Engineer
   - Site Reliability Engineer
   - Infrastructure Engineer
-
 cloud_focus:
   - AWS
   - GCP
   - Azure
-
 builds_with:
   - Terraform
   - Docker
   - GitHub Actions
   - Jenkins
   - Linux
-
 mission: Build scalable, secure, and reproducible delivery systems.
+```
 
-<p align="left"> <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonwebservices" /> <img src="https://img.shields.io/badge/GCP-black?style=for-the-badge&logo=googlecloud" /> <img src="https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform" /> <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker" /> <img src="https://img.shields.io/badge/SRE-black?style=for-the-badge&logo=prometheus" /> <img src="https://img.shields.io/badge/DevSecOps-black?style=for-the-badge&logo=githubactions" /> </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonwebservices" />
+  <img src="https://img.shields.io/badge/GCP-black?style=for-the-badge&logo=googlecloud" />
+  <img src="https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform" />
+  <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/SRE-black?style=for-the-badge&logo=prometheus" />
+  <img src="https://img.shields.io/badge/DevSecOps-black?style=for-the-badge&logo=githubactions" />
+</p>
+
 </td>
-
-<!-- RIGHT SIDE -->
 <td width="46%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=Priyal-Patel0810&show_icons=true&theme=default&hide_border=true" width="100%" alt="GitHub stats" /> <br/> <img src="https://streak-stats.demolab.com?user=Priyal-Patel0810&theme=dark&hide_border=true" width="100%" alt="GitHub streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Priyal-Patel0810&show_icons=true&theme=transparent&title_color=ffffff&text_color=e5e7eb&icon_color=8bd3ff&border_color=1f2937&bg_color=00000000" alt="GitHub stats" width="100%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyal-Patel0810&theme=black-ice&hide_border=false&border=1f2937&stroke=8bd3ff&ring=ffffff&fire=8bd3ff&currStreakLabel=ffffff" alt="GitHub streak" width="100%" />
+
 </td>
-</tr> </table>
+</tr>
+</table>
 
 <div align="center">
   <img src="./assets/cloud-divider.svg" alt="cloud divider" width="100%" />
