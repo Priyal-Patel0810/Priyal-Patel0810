@@ -90,28 +90,34 @@ mission: Build scalable, secure, and reproducible delivery systems.
 </div>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070B,50:0B1320,100:111827&height=72&section=header&text=DEPLOYMENTS%20%26%20PROJECTS&fontColor=ffffff&fontSize=26&animation=fadeIn" width="100%" />
+</div>
+
+<br/>
+
+<p align="center">
   <a href="https://github.com/Priyal-Patel0810/terraform-ci-cd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyal-Patel0810&repo=terraform-ci-cd&theme=transparent&title_color=ffffff&text_color=e5e7eb&icon_color=8bd3ff&border_color=1f2937&bg_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyal-Patel0810&repo=terraform-ci-cd&theme=transparent&hide_border=true" width="420"/>
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Priyal-Patel0810/django-ecs-ec2-deployment-main">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyal-Patel0810&repo=django-ecs-ec2-deployment-main&theme=transparent&title_color=ffffff&text_color=e5e7eb&icon_color=8bd3ff&border_color=1f2937&bg_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyal-Patel0810&repo=django-ecs-ec2-deployment-main&theme=transparent&hide_border=true" width="420"/>
   </a>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/Priyal-Patel0810/Secure-Deployment-with-DevSecOps-CI-CD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyal-Patel0810&repo=Secure-Deployment-with-DevSecOps-CI-CD&theme=transparent&title_color=ffffff&text_color=e5e7eb&icon_color=8bd3ff&border_color=1f2937&bg_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyal-Patel0810&repo=Secure-Deployment-with-DevSecOps-CI-CD&theme=transparent&hide_border=true" width="420"/>
   </a>
-  <a href="https://github.com/Priyal-Patel0810/GCP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyal-Patel0810&repo=GCP&theme=transparent&title_color=ffffff&text_color=e5e7eb&icon_color=8bd3ff&border_color=1f2937&bg_color=00000000" />
-  </a>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/Priyal-Patel0810/Azure-voting-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyal-Patel0810&repo=Azure-voting-app&theme=transparent&title_color=ffffff&text_color=e5e7eb&icon_color=8bd3ff&border_color=1f2937&bg_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyal-Patel0810&repo=Azure-voting-app&theme=transparent&hide_border=true" width="420"/>
   </a>
-</div>
+</p>
 
 <br/>
 
