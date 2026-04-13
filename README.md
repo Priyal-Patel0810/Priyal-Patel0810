@@ -1,32 +1,28 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/render?type=soft&color=0D1117&height=240&section=header&text=PRIYAL%20PATEL&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Architecting%20reliable%20delivery%20across%20Cloud%20&%20Infrastructure&descSize=20&descAlignY=65" width="100%" />
-
-<p>
-  <img src="https://img.shields.io/badge/AWS%20/%20GCP-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD%20Pipelines-2D333B?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevSecOps-000000?style=for-the-badge&logo=shield&logoColor=white" />
-</p>
-
----
-
-**Cloud Engineer | SRE | Infrastructure Engineer**
-
-[![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yourname@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-
+  <img src="./assets/cloud-hero.svg" alt="Priyal Patel cloud SRE banner" width="100%" />
 </div>
 
-<br />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1400&color=FFFFFF&center=true&vCenter=true&width=980&lines=Cloud+Engineer+%7C+SRE+%7C+Infrastructure+Engineer;AWS+%E2%80%A2+Terraform+%E2%80%A2+GCP+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD;Reliable+systems.+Automated+delivery.+Secure+platforms." alt="Typing intro" />
+</div>
 
-## 🛠️ ARCHITECTURE / IDENTITY
+<div align="center">
+  <a href="https://github.com/Priyal-Patel0810?tab=followers"><img src="https://img.shields.io/github/followers/Priyal-Patel0810?style=for-the-badge&logo=github&labelColor=000000&color=111827" alt="GitHub followers" /></a>
+  <a href="mailto:ADD_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000" alt="Email" /></a>
+  <a href="ADD_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Priyal-Patel0810&style=for-the-badge&color=white&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
 
-<table width="100%" border="0">
-  <tr>
-    <td width="50%" valign="top">
-      
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070B,50:0B1320,100:111827&height=72&section=header&text=ARCHITECTURE%20%2F%20IDENTITY&fontColor=ffffff&fontSize=26&animation=fadeIn" width="100%" alt="Architecture section" />
+</div>
+
+<table>
+<tr>
+<td width="54%" valign="top">
+
 ```yaml
 name: Priyal Patel
 role_target:
@@ -37,76 +33,130 @@ cloud_focus:
   - AWS
   - GCP
   - Azure
-builds_with: [Terraform, Docker, GHA, Linux]
-</td>
-<td width="50%" valign="top">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
-</td>
-</tr>
-</table>
+builds_with:
+  - Terraform
+  - Docker
+  - GitHub Actions
+  - Jenkins
+  - Linux
+mission: Build scalable, secure, and reproducible delivery systems.
+```
 
-<br />
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonwebservices" />
+  <img src="https://img.shields.io/badge/GCP-black?style=for-the-badge&logo=googlecloud" />
+  <img src="https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform" />
+  <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/SRE-black?style=for-the-badge&logo=prometheus" />
+  <img src="https://img.shields.io/badge/DevSecOps-black?style=for-the-badge&logo=githubactions" />
+</p>
 
-☁️ CLOUD STACK
-<div align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GCP-4285F4%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-cloud%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Azure-0089D6%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-azure%26logoColor%3Dwhite" />
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge%26logo=terraform%26logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kubernetes-326CE5%3Fstyle%3Dfor-the-badge%26logo%3Dkubernetes%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Jenkins-D24939%3Fstyle%3Dfor-the-badge%26logo%3Djenkins%26logoColor%3Dwhite" />
-</div>
+</td>
+<td width="46%" valign="top">
 
-<br />
+<img src="https://github-readme-stats.vercel.app/api?username=Priyal-Patel0810&show_icons=true&theme=transparent&title_color=ffffff&text_color=e5e7eb&icon_color=8bd3ff&border_color=1f2937&bg_color=00000000" alt="GitHub stats" width="100%" />
 
-🚀 DEPLOYMENTS & PROJECTS
-<table width="100%" border="0">
-<tr>
-<td width="50%" valign="top">
-<h3>terraform-ci-cd</h3>
-<p>IaC workflow automation with Terraform and CI/CD validation pipelines.</p>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</td>
-<td width="50%" valign="top">
-<h3>django-ecs-ec2-deployment</h3>
-<p>AWS container deployment using ECS, EC2, ECR, and Docker.</p>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>Secure-DevSecOps-CI-CD</h3>
-<p>Security-oriented delivery project with automated vulnerability scanning.</p>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</td>
-<td width="50%" valign="top">
-<h3>GCP/Azure-voting-app</h3>
-<p>Multi-cloud application covering builds and container workloads.</p>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyal-Patel0810&theme=black-ice&hide_border=false&border=1f2937&stroke=8bd3ff&ring=ffffff&fire=8bd3ff&currStreakLabel=ffffff" alt="GitHub streak" width="100%" />
+
 </td>
 </tr>
 </table>
-
-<br />
-
-⚙️ OPERATING PRINCIPLES
-<div align="center">
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#161b22">
-<br />
-<code>Automate repetitive work • Design for recovery • Treat reliability as a feature</code>
-<br /><br />
-</td>
-</tr>
-</table>
-</div>
-
-<br />
 
 <div align="center">
-<h3>CONNECT</h3>
-<a href="https://www.google.com/url?sa=E&source=gmail&q=https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
-<a href="mailto:yourname@email.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a>
+  <img src="./assets/cloud-divider.svg" alt="cloud divider" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070B,50:0B1320,100:111827&height=72&section=header&text=CLOUD%20STACK&fontColor=ffffff&fontSize=26&animation=fadeIn" width="100%" alt="Cloud stack section" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,docker,kubernetes,jenkins,githubactions,linux,python,bash,nginx,git,redis" alt="skills" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-Terraform-7B42BC?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Delivery-GitHub%20Actions-2088FF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Operations-Linux-FCC624?style=for-the-badge&logoColor=black&labelColor=000000" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070B,50:0B1320,100:111827&height=72&section=header&text=DEPLOYMENTS%20%26%20PROJECTS&fontColor=ffffff&fontSize=26&animation=fadeIn" width="100%" alt="Projects section" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/Priyal-Patel0810/terraform-ci-cd">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyal-Patel0810&repo=terraform-ci-cd&theme=transparent&title_color=ffffff&text_color=e5e7eb&icon_color=8bd3ff&border_color=1f2937&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/Priyal-Patel0810/django-ecs-ec2-deployment-main">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyal-Patel0810&repo=django-ecs-ec2-deployment-main&theme=transparent&title_color=ffffff&text_color=e5e7eb&icon_color=8bd3ff&border_color=1f2937&bg_color=00000000" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Priyal-Patel0810/Secure-Deployment-with-DevSecOps-CI-CD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyal-Patel0810&repo=Secure-Deployment-with-DevSecOps-CI-CD&theme=transparent&title_color=ffffff&text_color=e5e7eb&icon_color=8bd3ff&border_color=1f2937&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/Priyal-Patel0810/GCP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyal-Patel0810&repo=GCP&theme=transparent&title_color=ffffff&text_color=e5e7eb&icon_color=8bd3ff&border_color=1f2937&bg_color=00000000" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Priyal-Patel0810/Azure-voting-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyal-Patel0810&repo=Azure-voting-app&theme=transparent&title_color=ffffff&text_color=e5e7eb&icon_color=8bd3ff&border_color=1f2937&bg_color=00000000" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/terraform--ci--cd-IaC%20workflow%20automation-111827?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/django--ecs--ec2-AWS%20container%20deployment-111827?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/devsecops-Secure%20delivery%20mindset-111827?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/multi--cloud-GCP%20%26%20Azure-111827?style=for-the-badge&labelColor=000000" />
+</div>
+
+<div align="center">
+  <img src="./assets/cloud-divider.svg" alt="cloud divider" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070B,50:0B1320,100:111827&height=72&section=header&text=OPERATING%20PRINCIPLES&fontColor=ffffff&fontSize=26&animation=fadeIn" width="100%" alt="Principles section" />
+</div>
+
+<div align="center">
+
+```text
+Automate repetitive work.
+Design for recovery.
+Prefer reproducible systems.
+Ship with observability in mind.
+Treat reliability as a feature.
+```
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070B,50:0B1320,100:111827&height=72&section=header&text=CONNECT&fontColor=ffffff&fontSize=26&animation=fadeIn" width="100%" alt="Connect section" />
+</div>
+
+<div align="center">
+  <a href="ADD_LINKEDIN_URL_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&labelColor=000000" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ADD_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-Recruiter%20Friendly-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000" alt="Email" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070B,50:0B1320,100:111827&height=130&section=footer&text=Build%20Once%20%E2%80%A2%20Automate%20Well%20%E2%80%A2%20Run%20Reliably&fontColor=ffffff&fontSize=24&animation=twinkling" alt="footer" width="100%" />
 </div>
