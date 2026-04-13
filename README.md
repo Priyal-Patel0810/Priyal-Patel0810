@@ -67,20 +67,48 @@ mission: Build scalable, secure, and reproducible delivery systems.
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070B,50:0B1320,100:111827&height=72&section=header&text=CLOUD%20STACK&fontColor=ffffff&fontSize=26&animation=fadeIn" width="100%" alt="Cloud stack section" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,docker,kubernetes,jenkins,githubactions,linux,python,bash,nginx,git,redis" alt="skills" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1320&height=80&section=header&text=DEPLOYMENTS%20%26%20PROJECTS&fontColor=ffffff&fontSize=26" width="100%" alt="Projects section" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-Terraform-7B42BC?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Delivery-GitHub%20Actions-2088FF?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Operations-Linux-FCC624?style=for-the-badge&logoColor=black&labelColor=000000" />
+  <a href="https://github.com/Priyal-Patel0810/terraform-ci-cd">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyal-Patel0810&repo=terraform-ci-cd&theme=transparent&hide_border=true" width="420" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Priyal-Patel0810/django-ecs-ec2-deployment-main">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyal-Patel0810&repo=django-ecs-ec2-deployment-main&theme=transparent&hide_border=true" width="420" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Priyal-Patel0810/Secure-Deployment-with-DevSecOps-CI-CD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyal-Patel0810&repo=Secure-Deployment-with-DevSecOps-CI-CD&theme=transparent&hide_border=true" width="420" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Priyal-Patel0810/Azure-voting-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyal-Patel0810&repo=Azure-voting-app&theme=transparent&hide_border=true" width="420" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Terraform-IaC%20Automation-111827?style=for-the-badge&logo=terraform" />
+  <img src="https://img.shields.io/badge/Docker-Containerization-111827?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/DevSecOps-Secure%20Delivery-111827?style=for-the-badge&logo=githubactions" />
+  <img src="https://img.shields.io/badge/Multi--Cloud-AWS%20%7C%20GCP%20%7C%20Azure-111827?style=for-the-badge" />
 </div>
 
 <br/>
