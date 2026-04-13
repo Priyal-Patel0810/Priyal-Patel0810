@@ -1,150 +1,69 @@
-<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#020203"/>
-      <stop offset="1" stop-color="#0A1020"/>
-    </linearGradient>
-    <linearGradient id="glow" x1="270" y1="70" x2="880" y2="70" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#ffffff" stop-opacity="0.86"/>
-      <stop offset="1" stop-color="#86D2FF" stop-opacity="0.92"/>
-    </linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#7DD3FC" stop-opacity="0.0"/>
-      <stop offset="0.2" stop-color="#7DD3FC" stop-opacity="0.85"/>
-      <stop offset="0.8" stop-color="#A78BFA" stop-opacity="0.95"/>
-      <stop offset="1" stop-color="#A78BFA" stop-opacity="0.0"/>
-    </linearGradient>
-    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="10" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <filter id="cloudGlow" x="-25%" y="-25%" width="150%" height="150%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <style>
-      .twinkle { opacity: 0.25; animation: twinkle 4s ease-in-out infinite; }
-      .twinkle2 { opacity: 0.18; animation: twinkle 6s ease-in-out infinite 1s; }
-      .cloudA { animation: driftA 22s linear infinite; }
-      .cloudB { animation: driftB 26s linear infinite; }
-      .cloudC { animation: driftC 18s linear infinite; }
-      .pulse { animation: pulse 4s ease-in-out infinite; }
-      .float { animation: floaty 8s ease-in-out infinite; }
-      .scan { animation: scan 6s linear infinite; }
-      @keyframes twinkle {
-        0%, 100% { opacity: 0.10; }
-        50% { opacity: 0.50; }
-      }
-      @keyframes driftA {
-        0% { transform: translateX(-80px); }
-        100% { transform: translateX(80px); }
-      }
-      @keyframes driftB {
-        0% { transform: translateX(100px); }
-        100% { transform: translateX(-100px); }
-      }
-      @keyframes driftC {
-        0% { transform: translateX(-55px); }
-        50% { transform: translateX(45px); }
-        100% { transform: translateX(-55px); }
-      }
-      @keyframes pulse {
-        0%, 100% { opacity: 0.68; }
-        50% { opacity: 1; }
-      }
-      @keyframes floaty {
-        0%, 100% { transform: translateY(0px); }
-        50% { transform: translateY(-6px); }
-      }
-      @keyframes scan {
-        0% { transform: translateX(-180px); opacity: 0; }
-        15% { opacity: 1; }
-        85% { opacity: 1; }
-        100% { transform: translateX(1080px); opacity: 0; }
-      }
-      text { font-family: Inter, Segoe UI, Arial, sans-serif; }
-    </style>
-  </defs>
+<svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&amp;display=swap');
+    .title { font-family: 'Inter', sans-serif; font-weight: 400; font-size: 16px; letter-spacing: 0.3em; fill: #8B949E; text-transform: uppercase; }
+    .name { font-family: 'Inter', sans-serif; font-weight: 800; font-size: 56px; fill: #FFFFFF; }
+    .desc { font-family: 'Inter', sans-serif; font-weight: 400; font-size: 20px; fill: #C9D1D9; }
+    .pill-text { font-family: 'Inter', sans-serif; font-weight: 600; font-size: 14px; fill: #FFFFFF; }
+    .chart-label { font-family: 'Inter', sans-serif; font-size: 12px; fill: #8B949E; letter-spacing: 0.1em; }
+    .fade-in { animation: fadeIn 1.5s ease-out; }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+  </style>
 
-  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
-  <rect x="20" y="20" width="1160" height="380" rx="22" stroke="rgba(255,255,255,0.12)" stroke="#1F2A44"/>
+  <rect width="1200" height="400" rx="12" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="1199" height="399" rx="11.5" stroke="#30363d" />
 
-  <g class="twinkle">
-    <circle cx="84" cy="78" r="2" fill="#D9F6FF"/>
-    <circle cx="150" cy="124" r="1.5" fill="#D9F6FF"/>
-    <circle cx="233" cy="68" r="1.8" fill="#D9F6FF"/>
-    <circle cx="340" cy="110" r="1.2" fill="#D9F6FF"/>
-    <circle cx="432" cy="84" r="1.8" fill="#D9F6FF"/>
-    <circle cx="546" cy="52" r="1.2" fill="#D9F6FF"/>
-    <circle cx="682" cy="96" r="1.9" fill="#D9F6FF"/>
-    <circle cx="811" cy="66" r="1.4" fill="#D9F6FF"/>
-    <circle cx="920" cy="117" r="1.8" fill="#D9F6FF"/>
-    <circle cx="1046" cy="82" r="1.4" fill="#D9F6FF"/>
-  </g>
-  <g class="twinkle2">
-    <circle cx="126" cy="183" r="1.4" fill="#D9F6FF"/>
-    <circle cx="206" cy="228" r="1.7" fill="#D9F6FF"/>
-    <circle cx="378" cy="198" r="1.3" fill="#D9F6FF"/>
-    <circle cx="496" cy="162" r="1.6" fill="#D9F6FF"/>
-    <circle cx="634" cy="212" r="1.4" fill="#D9F6FF"/>
-    <circle cx="812" cy="180" r="1.8" fill="#D9F6FF"/>
-    <circle cx="960" cy="220" r="1.5" fill="#D9F6FF"/>
-    <circle cx="1080" cy="190" r="1.6" fill="#D9F6FF"/>
+  <g stroke="#30363d" stroke-width="2" fill="none" opacity="0.6">
+    <path d="M1000 80C1000 68.9543 1008.95 60 1020 60C1021.31 60 1022.58 60.1265 1023.8 60.3673C1027.65 54.1042 1034.56 50 1042.42 50C1053.88 50 1063.38 58.4239 1064.92 69.4182C1066.55 68.4988 1068.44 68 1070.45 68C1077.94 68 1084 74.0589 1084 81.5455C1084 81.6976 1083.99 81.8485 1083.99 81.9982C1089.76 84.1448 1094 89.6749 1094 96.1818C1094 104.918 1086.92 112 1078.18 112H1020C1008.95 112 1000 103.046 1000 92V80Z" />
+    <path d="M1080 130C1080 121.716 1086.72 115 1095 115C1103.28 115 1110 121.716 1110 130V140H1120C1128.28 140 1135 146.716 1135 155C1135 163.284 1128.28 170 1120 170H1090C1084.48 170 1080 165.523 1080 160V130Z" />
   </g>
 
-  <g opacity="0.6">
-    <path d="M45 310H1155" stroke="url(#line)" stroke-width="1.2"/>
-    <path d="M45 270H1155" stroke="#16233E" stroke-width="1"/>
-    <path d="M45 350H1155" stroke="#16233E" stroke-width="1"/>
+  <g class="fade-in">
+    <text x="80" y="80" class="title">CLOUD • SRE • INFRASTRUCTURE ENGINEERING</text>
+    <text x="80" y="150" class="name">PRIYAL PATEL</text>
+    <text x="80" y="200" class="desc">Architecting reliable delivery across AWS, GCP, IaC, CI/CD,</text>
+    <text x="80" y="230" class="desc">containers, platform automation, and secure cloud operations.</text>
+
+    <g transform="translate(80, 270)">
+      <rect width="130" height="32" rx="16" fill="#1f2937" stroke="#374151"/>
+      <circle cx="16" cy="16" r="4" fill="#38bdf8"/>
+      <text x="32" y="21" class="pill-text">AWS / GCP</text>
+      
+      <g transform="translate(145, 0)">
+        <rect width="130" height="32" rx="16" fill="#1f2937" stroke="#374151"/>
+        <circle cx="16" cy="16" r="4" fill="#a855f7"/>
+        <text x="32" y="21" class="pill-text">Terraform</text>
+      </g>
+
+      <g transform="translate(290, 0)">
+        <rect width="150" height="32" rx="16" fill="#1f2937" stroke="#374151"/>
+        <circle cx="16" cy="16" r="4" fill="#10b981"/>
+        <text x="32" y="21" class="pill-text">CI/CD Pipelines</text>
+      </g>
+
+      <g transform="translate(455, 0)">
+        <rect width="135" height="32" rx="16" fill="#1f2937" stroke="#374151"/>
+        <circle cx="16" cy="16" r="4" fill="#f43f5e"/>
+        <text x="32" y="21" class="pill-text">DevSecOps</text>
+      </g>
+    </g>
   </g>
 
-  <g class="cloudA" filter="url(#cloudGlow)" opacity="0.88">
-    <path d="M870 106C870 89.4315 883.431 76 900 76C912.132 76 922.604 83.2338 927.321 93.6108C929.605 92.5588 932.147 92 934.82 92C944.866 92 953.5 99.6104 953.5 109C953.5 119.493 942.688 128 929.35 128H896C881.64 128 870 118.151 870 106Z" fill="#D9F6FF" fill-opacity="0.08" stroke="#BCEFFF" stroke-opacity="0.85"/>
-  </g>
-  <g class="cloudB" filter="url(#cloudGlow)" opacity="0.75">
-    <path d="M945 160C945 147.85 954.85 138 967 138C975.896 138 983.573 143.304 987.032 150.915C988.707 150.144 990.571 149.735 992.53 149.735C999.891 149.735 1006.22 155.314 1006.22 162.195C1006.22 169.887 998.298 176.122 988.526 176.122H964.09C953.572 176.122 945 168.911 945 160Z" fill="#D9F6FF" fill-opacity="0.07" stroke="#BCEFFF" stroke-opacity="0.8"/>
-  </g>
-  <g class="cloudC" filter="url(#cloudGlow)" opacity="0.65">
-    <path d="M760 84C760 74.6112 767.611 67 777 67C783.874 67 789.805 71.0987 792.477 76.9786C793.771 76.3832 795.211 76.0675 796.725 76.0675C802.414 76.0675 807.305 80.3782 807.305 85.6941C807.305 91.6366 801.185 96.4545 793.636 96.4545H774.755C766.631 96.4545 760 90.8857 760 84Z" fill="#D9F6FF" fill-opacity="0.05" stroke="#BCEFFF" stroke-opacity="0.75"/>
-  </g>
-
-  <g class="float">
-    <text x="82" y="118" font-size="20" fill="#92A4C3" letter-spacing="5">CLOUD • SRE • INFRASTRUCTURE ENGINEERING</text>
-    <text x="78" y="182" font-size="54" font-weight="700" fill="url(#glow)">PRIYAL PATEL</text>
-    <text x="82" y="220" font-size="24" fill="#F5F7FA">Architecting reliable delivery across AWS, GCP, IaC, CI/CD,</text>
-    <text x="82" y="252" font-size="24" fill="#F5F7FA">containers, platform automation, and secure cloud operations.</text>
-  </g>
-
-  <g class="pulse" filter="url(#softGlow)">
-    <rect x="80" y="286" width="148" height="40" rx="20" fill="#09111F" stroke="#2A3B62"/>
-    <text x="106" y="312" font-size="16" fill="#D8F4FF">☁ AWS / GCP</text>
-
-    <rect x="246" y="286" width="132" height="40" rx="20" fill="#09111F" stroke="#2A3B62"/>
-    <text x="272" y="312" font-size="16" fill="#D8F4FF">⚙ Terraform</text>
-
-    <rect x="396" y="286" width="156" height="40" rx="20" fill="#09111F" stroke="#2A3B62"/>
-    <text x="422" y="312" font-size="16" fill="#D8F4FF">🚀 CI/CD Pipelines</text>
-
-    <rect x="570" y="286" width="148" height="40" rx="20" fill="#09111F" stroke="#2A3B62"/>
-    <text x="596" y="312" font-size="16" fill="#D8F4FF">🔐 DevSecOps</text>
-  </g>
-
-  <g opacity="0.95">
-    <rect x="846" y="242" width="260" height="108" rx="18" fill="#070D18" stroke="#1D3054"/>
-    <path d="M880 315C906 292 922 287 944 295C958 300 969 311 986 311C1000 311 1011 304 1024 296C1046 282 1064 283 1090 302" stroke="#91E8FF" stroke-width="3.2" stroke-linecap="round"/>
-    <circle cx="880" cy="315" r="4" fill="#91E8FF"/>
-    <circle cx="944" cy="295" r="4" fill="#91E8FF"/>
-    <circle cx="986" cy="311" r="4" fill="#91E8FF"/>
-    <circle cx="1024" cy="296" r="4" fill="#91E8FF"/>
-    <circle cx="1090" cy="302" r="4" fill="#91E8FF"/>
-    <text x="878" y="274" font-size="14" fill="#8EA9CF" letter-spacing="2">RELIABILITY SIGNALS</text>
-    <text x="878" y="294" font-size="18" fill="#FFFFFF">Scalable • Observable • Automated</text>
-    <rect class="scan" x="846" y="337" width="100" height="2.3" rx="1.15" fill="#86D2FF"/>
+  <g transform="translate(850, 210)" class="fade-in">
+    <text x="0" y="0" class="chart-label" text-anchor="middle">RELIABILITY SIGNALS</text>
+    <text x="-90" y="25" class="chart-label" font-size="10">Scalable</text>
+    <text x="0" y="25" class="chart-label" font-size="10">Observable</text>
+    <text x="90" y="25" class="chart-label" font-size="10">Automated</text>
+    
+    <path d="M-120 80 Q-90 40 -60 70 T0 50 T60 80 T120 40" stroke="url(#lineGradient)" stroke-width="3" fill="none" />
+    <circle cx="-120" cy="80" r="4" fill="#38bdf8" />
+    <circle cx="120" cy="40" r="4" fill="#38bdf8" />
+    
+    <defs>
+      <linearGradient id="lineGradient" x1="-120" y1="60" x2="120" y2="60" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#38bdf8" />
+        <stop offset="1" stop-color="#818cf8" />
+      </linearGradient>
+    </defs>
   </g>
 </svg>
