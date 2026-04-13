@@ -89,29 +89,40 @@ mission: Build scalable, secure, and reproducible delivery systems.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070B,50:0B1320,100:111827&height=72&section=header&text=DEPLOYMENTS%20%26%20PROJECTS&fontColor=ffffff&fontSize=26&animation=fadeIn" width="100%" alt="Projects section" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/Priyal-Patel0810/terraform-ci-cd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyal-Patel0810&repo=terraform-ci-cd&theme=transparent&title_color=ffffff&text_color=e5e7eb&icon_color=8bd3ff&border_color=1f2937&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/Priyal-Patel0810/django-ecs-ec2-deployment-main">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyal-Patel0810&repo=django-ecs-ec2-deployment-main&theme=transparent&title_color=ffffff&text_color=e5e7eb&icon_color=8bd3ff&border_color=1f2937&bg_color=00000000" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Priyal-Patel0810/Secure-Deployment-with-DevSecOps-CI-CD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyal-Patel0810&repo=Secure-Deployment-with-DevSecOps-CI-CD&theme=transparent&title_color=ffffff&text_color=e5e7eb&icon_color=8bd3ff&border_color=1f2937&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/Priyal-Patel0810/GCP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyal-Patel0810&repo=GCP&theme=transparent&title_color=ffffff&text_color=e5e7eb&icon_color=8bd3ff&border_color=1f2937&bg_color=00000000" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Priyal-Patel0810/Azure-voting-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyal-Patel0810&repo=Azure-voting-app&theme=transparent&title_color=ffffff&text_color=e5e7eb&icon_color=8bd3ff&border_color=1f2937&bg_color=00000000" />
-  </a>
-</div>
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Priyal-Patel0810/terraform-ci-cd">
+        <h3 align="left">terraform-ci-cd</h3>
+        <p align="left" style="font-size: 14px; color: #e5e7eb;">IaC workflow automation with Terraform and CI/CD validation.</p>
+        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Priyal-Patel0810/django-ecs-ec2-deployment-main">
+        <h3 align="left">django-ecs-ec2-deployment-main</h3>
+        <p align="left" style="font-size: 14px; color: #e5e7eb;">AWS container deployment using ECS, EC2, ECR, and Docker.</p>
+        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Priyal-Patel0810/Secure-Deployment-with-DevSecOps-CI-CD">
+        <h3 align="left">Secure-Deployment-with-DevSecOps-CI-CD</h3>
+        <p align="left" style="font-size: 14px; color: #e5e7eb;">DevSecOps-oriented delivery project with secure pipeline patterns.</p>
+        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Priyal-Patel0810/GCP">
+        <h3 align="left">GCP / Azure-voting-app</h3>
+        <p align="left" style="font-size: 14px; color: #e5e7eb;">Multi-cloud learning projects covering GCP builds and Azure container workloads.</p>
+        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
