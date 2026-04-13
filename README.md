@@ -54,9 +54,9 @@ mission: Build scalable, secure, and reproducible delivery systems.
 </td>
 <td width="46%" valign="top">
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DPriyal-Patel0810%26show_icons%3Dtrue%26theme%3Dtokyonight%26bg_color%3D0D1117%26hide_border%3Dtrue" alt="GitHub stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Priyal-Patel0810&show_icons=true&theme=transparent&title_color=ffffff&text_color=e5e7eb&icon_color=8bd3ff&border_color=1f2937&bg_color=00000000" alt="GitHub stats" width="100%" />
 
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DPriyal-Patel0810%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117" alt="GitHub streak" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyal-Patel0810&theme=black-ice&hide_border=false&border=1f2937&stroke=8bd3ff&ring=ffffff&fire=8bd3ff&currStreakLabel=ffffff" alt="GitHub streak" width="100%" />
 
 </td>
 </tr>
