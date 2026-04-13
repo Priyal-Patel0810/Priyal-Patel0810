@@ -16,7 +16,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070B,50:0B1320,100:111827&height=72&section=header&text=ARCHITECTURE%20%2F%20IDENTITY&fontColor=ffffff&fontSize=26&animation=fadeIn" width="100%" alt="Architecture section" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070B,50:0B1320,100:111827&height=72&section=header&text=ARCHITECTURE%20-%20IDENTITY&fontColor=ffffff&fontSize=26&animation=fadeIn" width="100%" alt="Architecture section" />
 </div>
 
 <table>
@@ -86,7 +86,7 @@ mission: Build scalable, secure, and reproducible delivery systems.
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070B,50:0B1320,100:111827&height=72&section=header&text=DEPLOYMENTS%20%26%20PROJECTS&fontColor=ffffff&fontSize=26&animation=fadeIn" width="100%" alt="Projects section" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070B,50:0B1320,100:111827&height=72&section=header&text=DEPLOYMENTS%20AND%20PROJECTS&fontColor=ffffff&fontSize=26&animation=fadeIn" width="100%" alt="Projects section" />
 </div>
 
 <div align="center">
@@ -158,5 +158,5 @@ Treat reliability as a feature.
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070B,50:0B1320,100:111827&height=130&section=footer&text=Build%20Once%20%E2%80%A2%20Automate%20Well%20%E2%80%A2%20Run%20Reliably&fontColor=ffffff&fontSize=24&animation=twinkling" alt="footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070B,50:0B1320,100:111827&height=130&section=footer&text=Build%20Once%20-%20Automate%20Well%20-%20Run%20Reliably&fontColor=ffffff&fontSize=24&animation=twinkling" alt="footer" width="100%" />
 </div>
