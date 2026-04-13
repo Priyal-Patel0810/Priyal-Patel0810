@@ -85,9 +85,7 @@ mission: Build scalable, secure, and reproducible delivery systems.
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070B,50:0B1320,100:111827&height=72&section=header&text=DEPLOYMENTS%20%26%20PROJECTS&fontColor=ffffff&fontSize=26&animation=fadeIn" width="100%" alt="Projects section" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1320&height=80&section=header&text=DEPLOYMENTS%20%26%20PROJECTS&fontColor=ffffff&fontSize=26" width="100%" alt="Projects section" />
 
 <div align="center">
   <a href="https://github.com/Priyal-Patel0810/terraform-ci-cd">
