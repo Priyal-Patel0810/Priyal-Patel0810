@@ -86,7 +86,7 @@ mission: Build scalable, secure, and reproducible delivery systems.
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070B,50:0B1320,100:111827&height=72&section=header&text=DEPLOYMENTS%20%26%20PROJECTS&fontColor=ffffff&fontSize=26&animation=fadeIn" width="100%" alt="Projects section" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070B,50:0B1320,100:111827&height=80&section=header&text=DEPLOYMENTS%20%26%20PROJECTS&fontColor=ffffff&fontSize=28&animation=fadeIn&fontAlignY=50" width="100%" alt="Projects Header" />
 </div>
 
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
