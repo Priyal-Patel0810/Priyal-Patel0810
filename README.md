@@ -10,7 +10,7 @@
   <a href="https://github.com/Priyal-Patel0810?tab=followers"><img src="https://img.shields.io/github/followers/Priyal-Patel0810?style=for-the-badge&logo=github&labelColor=000000&color=111827" alt="GitHub followers" /></a>
   <a href="mailto:ADD_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000" alt="Email" /></a>
   <a href="ADD_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Priyal-Patel0810&style=for-the-badge&color=0e75b6&label=PROFILE%20VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Priyal-Patel0810&style=for-the-badge&color=white&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 <br/>
@@ -54,9 +54,9 @@ mission: Build scalable, secure, and reproducible delivery systems.
 </td>
 <td width="46%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Priyal-Patel0810&show_icons=true&theme=transparent&title_color=ffffff&text_color=e5e7eb&icon_color=8bd3ff&border_color=1f2937&bg_color=00000000&cache_seconds=1800" alt="GitHub stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Priyal-Patel0810&show_icons=true&theme=transparent&title_color=ffffff&text_color=e5e7eb&icon_color=8bd3ff&border_color=1f2937&bg_color=00000000" alt="GitHub stats" width="100%" />
 
-<img src="https://streak-stats.demolab.com?user=Priyal-Patel0810&theme=transparent&hide_border=true&ring=8bd3ff&fire=8bd3ff&currStreakLabel=ffffff&sideLabels=e5e7eb&currStreakNum=ffffff&dates=9ca3af&background=00000000" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyal-Patel0810&theme=black-ice&hide_border=false&border=1f2937&stroke=8bd3ff&ring=ffffff&fire=8bd3ff&currStreakLabel=ffffff" alt="GitHub streak" width="100%" />
 
 </td>
 </tr>
