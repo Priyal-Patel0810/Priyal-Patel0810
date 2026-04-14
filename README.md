@@ -19,12 +19,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070B,50:0B1320,100:111827&height=72&section=header&text=ARCHITECTURE%20%2F%20IDENTITY&fontColor=ffffff&fontSize=26&animation=fadeIn" width="100%" alt="Architecture section" />
 </div>
 
-<table width="100%">
+<table>
 <tr>
 <td width="54%" valign="top">
 
-<!-- YAML PROFILE -->
-<pre>
+```yaml
 name: Priyal Patel
 role_target:
   - Cloud Engineer
@@ -41,29 +40,23 @@ builds_with:
   - Jenkins
   - Linux
 mission: Build scalable, secure, and reproducible delivery systems.
-</pre>
+```
 
-<!-- BADGES -->
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-111827?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-111827?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/SRE-111827?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevSecOps-111827?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonwebservices" />
+  <img src="https://img.shields.io/badge/GCP-black?style=for-the-badge&logo=googlecloud" />
+  <img src="https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform" />
+  <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/SRE-black?style=for-the-badge&logo=prometheus" />
+  <img src="https://img.shields.io/badge/DevSecOps-black?style=for-the-badge&logo=githubactions" />
 </p>
 
 </td>
-
 <td width="46%" valign="top">
 
-<!-- GITHUB STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=Priyal-Patel0810&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=e5e7eb&icon_color=8bd3ff&bg_color=00000000&cache_seconds=1800" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Priyal-Patel0810&show_icons=true&theme=transparent&title_color=ffffff&text_color=e5e7eb&icon_color=8bd3ff&border_color=1f2937&bg_color=00000000&cache_seconds=1800" alt="GitHub stats" width="100%" />
 
-<br/>
-
-<!-- STREAK STATS -->
-<img src="https://streak-stats.demolab.com?user=Priyal-Patel0810&theme=transparent&hide_border=true&ring=8bd3ff&fire=8bd3ff&currStreakLabel=ffffff&sideLabels=e5e7eb&currStreakNum=ffffff&dates=9ca3af&background=00000000" width="100%" />
+<img src="https://streak-stats.demolab.com?user=Priyal-Patel0810&theme=tokyonight&hide_border=true" width="100%" />
 
 </td>
 </tr>
